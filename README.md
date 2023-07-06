@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./ui/src/components/sidebar/pawlsLogo.png" width="400"/>
+    <img src="./ui/src/components/sidebar/narrator.png" width="400"/>
 
 [Demo Server](https://pawls.apps.allenai.org) | [Video Tutorial](https://www.youtube.com/watch?v=TB4kzh2H9og) | [Paper](https://arxiv.org/pdf/2101.10281v1.pdf)
 </div>

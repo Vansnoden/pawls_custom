@@ -1,7 +1,7 @@
 import React from 'react';
 import { Logos } from '@allenai/varnish';
 
-import pawlsLogo from './pawlsLogo.png';
+import pawlsLogo from './narrator.png';
 import styled from 'styled-components';
 
 const { AI2Logo } = Logos;
